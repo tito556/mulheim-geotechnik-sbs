@@ -1,0 +1,50 @@
+# Geotechnik — Mulheim
+
+> Geotechnical engineering services in Mulheim, Deutschland.
+
+## Services
+- [Anker](https://mulheim.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://mulheim.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://mulheim.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://mulheim.geotechnik.sbs/aushub-monitoring/)
+- [Bodenverbesserung](https://mulheim.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://mulheim.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://mulheim.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://mulheim.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://mulheim.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://mulheim.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://mulheim.geotechnik.sbs/fundamente/)
+- [Geophysik](https://mulheim.geotechnik.sbs/geophysik/)
+- [Grundungen](https://mulheim.geotechnik.sbs/grundungen/)
+- [Hange](https://mulheim.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://mulheim.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://mulheim.geotechnik.sbs/injektionen/)
+- [Labor](https://mulheim.geotechnik.sbs/labor/)
+- [Labor In Situ](https://mulheim.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://mulheim.geotechnik.sbs/masw/)
+- [Pfahle](https://mulheim.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://mulheim.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://mulheim.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://mulheim.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://mulheim.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://mulheim.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://mulheim.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://mulheim.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://mulheim.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://mulheim.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://mulheim.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://mulheim.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://mulheim.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://mulheim.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://mulheim.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://mulheim.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://mulheim.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://mulheim.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://mulheim.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://mulheim.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Mulheim, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
